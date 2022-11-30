@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MarvelApp2</string>
+    <string name="marvel">MARVEL</string>
+    <string name="item_name">Name</string>
+    <string name="tv_item_description">Descrição</string>
+    <string name="nome">Nome</string>
+    <string name="search_hint">Pesqise algo</string>
+    <string name="empty_text">Nada aqui</string>
+    <string name="comics">Quadrinhos</string>
+</resources>
